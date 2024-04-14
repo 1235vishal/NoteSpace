@@ -44,4 +44,4 @@ password: userpass
 
 
 ### License
-College Notes Gallery is released under the MIT License
+College Notes Gallery is released under the DevVish! License
